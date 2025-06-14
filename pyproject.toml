@@ -1,0 +1,9 @@
+[project]
+name = "rules-crawler-python"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.0",
+    "pygame>=2.6.1",
+]
