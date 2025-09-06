@@ -8,4 +8,5 @@ dependencies = [
     "pygame>=2.6.1",
     "pytest>=8.4.0",
     "ruff>=0.11.13",
+    "vulture>=2.14",
 ]
